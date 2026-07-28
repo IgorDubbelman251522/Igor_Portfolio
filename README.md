@@ -1,6 +1,6 @@
 # Igor Dubbelman
  
-Second-year Data Science & AI student at Breda University of Applied Sciences, building practical machine learning and computer vision systems. I care most about doing the honest version of the work: finding where a model actually breaks, saying so plainly, and building around it rather than around a flattering number.
+Second-year Data Science & AI student at Breda University of Applied Sciences, building practical machine learning and computer vision systems. I care most about doing the honest version of the work: finding where a model actually breaks and building around it rather than around a flattering number.
  
 <!-- OPTIONAL: add a line or two in your own words here. Things worth mentioning if they fit you:
      - what kind of role or work you're looking for (e.g. a werkstudent / internship in data or ML)
