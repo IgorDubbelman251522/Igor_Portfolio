@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 # Igor Dubbelman
  
 Second-year Data Science & AI student at Breda University of Applied Sciences, building practical machine learning and computer vision systems. I care most about doing the honest version of the work: finding where a model actually breaks and building around it rather than around a flattering number.
