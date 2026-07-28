@@ -25,7 +25,7 @@ The part I'm proudest of isn't the accuracy number, it's that I caught my own bl
  
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![YOLO26](https://img.shields.io/badge/Detector-YOLO26-orange) ![EfficientNetV2](https://img.shields.io/badge/Classifier-EfficientNetV2--S-green) ![PyTorch](https://img.shields.io/badge/PyTorch-CUDA%2012.4-red)
  
-**Key concepts:** object detection, image classification, small-object detection, sliced inference, transfer learning, class imbalance, per-class recall, edge / on-device inference
+**Key concepts:** object detection, image classification, small-object detection, sliced inference, transfer learning, per-class recall, edge / on-device inference
  
 ![](/images/HivEye.gif)
  
