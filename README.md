@@ -36,9 +36,7 @@ Under the hood it's four machine-learning models feeding into one another, a Str
  
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue) ![XGBoost](https://img.shields.io/badge/XGBoost-gradient%20boosting-green) ![FinBERT](https://img.shields.io/badge/FinBERT-sentiment-red) ![SHAP](https://img.shields.io/badge/SHAP-explainability-purple) ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-ff4b4b) ![Docker](https://img.shields.io/badge/Docker-containerised-blue)
  
-![](/images/regime1.png) 
-![](/images/regime2.png) 
-![](/images/regime3.png)
+<img src="https://igordubbelman251522.github.io/Igor_Portfolio/images/regime1.png" width="250"> <img src="https://igordubbelman251522.github.io/Igor_Portfolio/images/regime2.png" width="250"> <img src="https://igordubbelman251522.github.io/Igor_Portfolio/images/regime3.png" width="250">
 
 ---
  
@@ -50,9 +48,7 @@ I built it for a data-storytelling brief tied to UN Sustainable Development Goal
  
 ![Power BI](https://img.shields.io/badge/Power%20BI-report-yellow) ![DAX](https://img.shields.io/badge/DAX-measures-blue) ![Power Query](https://img.shields.io/badge/Power%20Query-data%20prep-green) ![Azure Maps](https://img.shields.io/badge/Azure%20Maps-geospatial-lightgrey)
  
-![](/images/power1.png)
-![](/images/power2.png)
-![](/images/power3.png)
+<img src="https://igordubbelman251522.github.io/Igor_Portfolio/images/power1.png" width="250"> <img src="https://igordubbelman251522.github.io/Igor_Portfolio/images/power2.png" width="250"> <img src="https://igordubbelman251522.github.io/Igor_Portfolio/images/power3.png" width="250">
  
 ---
  
