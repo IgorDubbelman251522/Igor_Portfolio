@@ -14,7 +14,7 @@ Below are the projects I'm most proud of so far. Each links to its own repositor
  
 ## [HivEye](https://github.com/IgorDubbelman251522/HivEye)
  
-![](/images/hiveye%20logo.png)
+![](/images/hiveye_logo_2.png)
 
 A deep-learning app that finds a single varroa mite hiding in a photo of a hundred bees, then tells the beekeeper what to do about it. Point a phone at a frame of bees and it boxes every threat and health indicator it sees, then turns that into plain-language advice. It runs offline, on hardware people already own, and it's free.
  
