@@ -1,10 +1,3 @@
-Igor Dubbelman
-
-Second-year Data Science & AI student at Breda University of Applied Sciences, building practical machine learning and computer vision systems. I care most about doing the honest version of the work: finding where a model actually breaks, saying so plainly, and building around it rather than around a flattering number.
-
-<!-- OPTIONAL: add a line or two in your own words here. Things worth mentioning if they fit you: - what kind of role or work you're looking for (e.g. a werkstudent / internship in data or ML) - languages you speak (Dutch, Russian, English C1, French A2) — genuinely a plus for international employers - a way to reach you: email / LinkedIn link Keep it short and in your own voice. Delete this comment when you're done. -->
-
-Below are the projects I'm most proud of so far. Each links to its own repository with the full write-up, the code, and instructions to run it yourself.
 # Igor Dubbelman
  
 Second-year Data Science & AI student at Breda University of Applied Sciences, building practical machine learning and computer vision systems. I care most about doing the honest version of the work: finding where a model actually breaks, saying so plainly, and building around it rather than around a flattering number.
