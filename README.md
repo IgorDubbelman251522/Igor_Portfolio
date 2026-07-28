@@ -1,6 +1,6 @@
 # Igor Dubbelman
  
-<img src="[Igor Dubbelman](https://github.com/IgorDubbelman251522/Igor_Portfolio/blob/main/images/profile.jpeg)" width="150" style="border-radius: 50%; float: right;">
+<img src="https://igordubbelman251522.github.io/Igor_Portfolio/images/profile.jpeg" width="150" style="border-radius: 50%; float: right;">
 
 Second-year Data Science & AI student at Breda University of Applied Sciences, building practical machine learning and computer vision systems. I care most about doing the honest version of the work: finding where a model actually breaks and building around it rather than around a flattering number.
  
