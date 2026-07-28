@@ -36,10 +36,8 @@ Under the hood it's four machine-learning models feeding into one another, a Str
  
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue) ![XGBoost](https://img.shields.io/badge/XGBoost-gradient%20boosting-green) ![FinBERT](https://img.shields.io/badge/FinBERT-sentiment-red) ![SHAP](https://img.shields.io/badge/SHAP-explainability-purple) ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-ff4b4b) ![Docker](https://img.shields.io/badge/Docker-containerised-blue)
  
-![](https://github.com/IgorDubbelman251522/Igor_Portfolio/blob/main/images/regime1.png)
-![](https://github.com/IgorDubbelman251522/Igor_Portfolio/blob/main/images/regime2.png)
-![](https://github.com/IgorDubbelman251522/Igor_Portfolio/blob/main/images/regime3.png)
- 
+![](https://github.com/IgorDubbelman251522/Igor_Portfolio/blob/main/images/regime1.png) ![](https://github.com/IgorDubbelman251522/Igor_Portfolio/blob/main/images/regime2.png) ![](https://github.com/IgorDubbelman251522/Igor_Portfolio/blob/main/images/regime3.png)
+
 ---
  
 ## [Air Pollution and Wealth: A Power BI Dashboard](https://github.com/IgorDubbelman251522/Dashboard_Igor_Y1A)
