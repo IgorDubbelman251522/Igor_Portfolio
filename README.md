@@ -11,7 +11,7 @@ Below are the projects I'm most proud of so far. Each links to its own repositor
 
 # Year 1 Projects
 
-### All of these projects were built during my first year, where I earned a 3.67 GPA. Two of them opened doors beyond the classroom: I was selected among the top 5 students out of more than 100 to present at the Breda University of Applied Sciences Dragon's Den, where HivEye placed second in front of a panel of investors, and again among the top 5 to present at the university's first industry showcase, with hiring companies in the room, NVIDIA among them. 
+### All of these projects were built during my first year, where I earned a 3.67 GPA. Two of them opened doors beyond the classroom: I was selected among the top 6 students out of more than 100 to present at the Breda University of Applied Sciences Dragon's Den, where HivEye placed second in front of a panel of investors, and again among the top 5 to present at the university's first industry showcase, with hiring companies in the room, NVIDIA among them. 
 
 ---
  
